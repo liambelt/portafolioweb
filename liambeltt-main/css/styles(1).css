@@ -1,0 +1,128 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(0, 0, 0);    
+    font-family: 'Castoro Titling', cursive;
+    color: rgb(12, 12, 122);
+   
+  
+}
+
+.navbar{
+    background-color: black;
+}
+
+.po{
+    background-color: rgba(21, 126, 26, 0);
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    
+
+  
+}
+
+.otro{
+    background-color: rgba(173, 117, 117, 0);
+    color: rgb(0, 0, 0);
+  
+}
+.ola{
+    background-color: rgba(114, 16, 16, 0);
+    color: rgb(0, 0, 0);
+}
+
+.audio{
+    background-color:  rgb(255, 255, 255);
+}
+.otro{
+    background-color: rgba(255, 255, 255, 0);
+    
+    color: rgb(0, 0, 0);
+    background-size: cover;
+}
+.otro2{
+    background-color: rgba(255, 255, 255, 0);
+    
+    color: rgb(0, 0, 0);
+    background-size: cover;
+}
+
+.lo {
+    height: 50rem;
+}
+
+.popo{
+    color: rgb(0, 0, 0);
+}
+
+.container-fluid{
+    background-color: blueviolet;
+}
+
+.lol{
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+    font-size: 80px;
+
+}
+
+.lol1{
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+    font-size: 30px;
+
+}
+.lol3{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-position: center;
+
+}
+
+.lol4{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-position: center;
+   
+    
+}
+
+
+.lol5{
+    background-color: rgb(0, 0, 0);
+    color: blueviolet;
+    font-size: 30px;
+    background-position: center;
+   
+    
+}
+
+.lol6{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    font-size: 50px;  
+}
+
+.progress{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    font-size: 50px;  
+    margin: 15px;
+}
+
+.progress2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: 50px;  
+    margin: 20px;
+}
+
+.nuevo{
+    display: flex;
+}
